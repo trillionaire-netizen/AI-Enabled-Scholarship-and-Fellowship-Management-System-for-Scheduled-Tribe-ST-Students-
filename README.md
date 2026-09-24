@@ -1,0 +1,2 @@
+# AI-Enabled-Scholarship-and-Fellowship-Management-System-for-Scheduled-Tribe-ST-Students-
+The AI-Enabled Scholarship and Fellowship Management System for ST Students is an intelligent, end-to-end digital platform designed to revolutionize how financial assistance is distributed to Scheduled Tribe youth. By automating and simplifying, the platform bridges the gap between remote tribal communities and educational funding.
